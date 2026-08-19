@@ -15,9 +15,4 @@
       "adaptiveIcon": {
         "backgroundColor": "#F7F7F5"
       }
-    },
-    "plugins": [
-      ["expo-sqlite", { "enableFTS": true }]
-    ]
-  }
-}
+    }
