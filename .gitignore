@@ -1,0 +1,4 @@
+node_modules/
+.expo/
+*.jks
+*.p12
