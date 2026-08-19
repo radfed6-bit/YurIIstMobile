@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "ЮрИИст",
+    "slug": "legalcli-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": false,
+    "splash": {
+      "backgroundColor": "#F7F7F5"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.legalcli.mobile",
+      "adaptiveIcon": {
+        "backgroundColor": "#F7F7F5"
+      }
+    },
+    "plugins": [
+      ["expo-sqlite", { "enableFTS": true }]
+    ]
+  }
+}
