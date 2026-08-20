@@ -6,6 +6,7 @@
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": false,
+    "owner": "radfed6s-team",
     "splash": {
       "backgroundColor": "#F7F7F5"
     },
@@ -14,6 +15,11 @@
       "package": "com.legalcli.mobile",
       "adaptiveIcon": {
         "backgroundColor": "#F7F7F5"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bfea93d5-0266-409c-9c7c-7289f54b53dd"
       }
     }
   }
